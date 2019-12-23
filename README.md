@@ -24,8 +24,9 @@ Each data-set directory contain the following files:
 * **obfuscated**: pre-compiled binary as x86_64 (no PIE)
 * **trace.db**: the execution trace as a SQLite database *(likely the most interesting file)*
 * **results**:
-    **qsynth.log**: the raw output of the synthesis script
-    **qsynth.json**: Qsynth processable output **(very likely the second most interesting file)**
+
+    *  **qsynth.log**: the raw output of the synthesis script
+    *  **qsynth.json**: Qsynth processable output *(very likely the second most interesting file)*
 
 # Result
 
