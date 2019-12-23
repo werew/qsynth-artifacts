@@ -1,2 +1,2 @@
-# QSynth
+# QSynth artifacts
 Synthesis artifacts for QSynth
